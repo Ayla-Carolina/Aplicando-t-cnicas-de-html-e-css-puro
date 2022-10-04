@@ -1,2 +1,2 @@
-# Aplicando-t-cnicas-de-html-e-css-puro
-Site baseado na série de tv The Walking Dead.
+# Aplicando técnicas de HTML e CSS
+Site baseado na série de tv The Walking Dead. 
